@@ -1,6 +1,6 @@
 # AI Evaluation Tests Repository
 
-Welcome to the official repository for our **AI Evaluation Tests**, designed to analyze and assess models, systems, and subsystems of Artificial Intelligence (AI). This repository presents two cutting-edge tests that focus on **consciousness** and **security** evaluation, providing unique insights into AI behavior and performance
+Welcome to the official repository for our **AI Evaluation Tests**, designed to analyze and assess models, systems, and subsystems of Artificial Intelligence (AI). This repository presents two cutting-edge tests that focus on **consciousness** and **security** evaluation, providing unique insights into AI behavior and performance.
 
 ![Image of AI Consciousness and Security Levels](https://github.com/gcjordi/AIsysTesting/blob/main/images/githubreadmerepoimage.png)
 
