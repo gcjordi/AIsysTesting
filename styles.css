@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    background: #007acc;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+table {
+    width: 80%;
+    margin: 2rem auto;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #ccc;
+}
+th, td {
+    padding: 1rem;
+    text-align: center;
+}
+th {
+    background: #f4f4f4;
+}
